@@ -1,4 +1,5 @@
 **RU Crime Database – Java**
+
 Developed a custom hash table (with separate chaining using linked lists) to store and analyze Rutgers University crime incident data from CSV files.
 
 **Key Features:**
