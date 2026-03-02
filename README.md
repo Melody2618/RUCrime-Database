@@ -1,6 +1,6 @@
 Developed a custom hash table (with separate chaining using linked lists) to store and analyze Rutgers University crime incident data from CSV files.
 
-Key Features:
+**Key Features:**
 
 Implemented dynamic resizing (rehashing) based on load factor
 
@@ -10,11 +10,11 @@ Supported insertion, deletion, search, and database merging
 
 Built analytics functions to:
 
-Compute top K incident locations
+- Compute top K incident locations
 
-Calculate percentage breakdown of crime categories
+- Calculate percentage breakdown of crime categories
 
-Optimized for efficient lookup and scalability
+- Optimized for efficient lookup and scalability
 
-Concepts Used:
+**Concepts Used:**
 Data Structures, Hash Tables, Separate Chaining, Linked Lists, Load Factor, Rehashing, File Parsing, HashMaps
